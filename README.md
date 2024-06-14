@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Javascript, and node.js
 - 💞️ I’m looking to collaborate on coding projects using python.
 - 📫 How to reach me: developerv0002@gmail.com
-- 😄 Pronouns: He, Him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Python is the fastest growing coding language.
 
 <!---
