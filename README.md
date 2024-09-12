@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bruh1555
-- 👀 I’m interested in Coding and Computers
-- 🌱 I’m currently learning Python, Javascript, and node.js
+- 👀 I’m interested in Programming and Computers
+- 🌱 I’m currently learning Python, Javascript, and Node.JS
 - 💞️ I’m looking to collaborate on coding projects using python.
 - 📫 How to reach me: developerv0002@gmail.com
 - 😄 Pronouns: He/Him
