@@ -11,7 +11,7 @@
 - ⚡ Fun fact: Python is the fastest growing coding language.
 
 ### Now Playing
-![https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317x6f3gft4nrhnehiiprdc2es7a&redirect=true](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317x6f3gft4nrhnehiiprdc2es7a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)
+[![spotify-github-profile]https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317x6f3gft4nrhnehiiprdc2es7a&redirect=true](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317x6f3gft4nrhnehiiprdc2es7a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)
 
 <!---
 bruh1555/bruh1555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
