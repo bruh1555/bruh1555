@@ -1,3 +1,5 @@
+##Profile Info
+
 - 👋 Hi, I’m @bruh1555
 - 👀 I’m interested in Programming and Computers
 - 🌱 I’m currently learning Python, Javascript, and Node.JS
@@ -6,6 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Python is the fastest growing coding language.
 
+##Now Playing
 ![https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317x6f3gft4nrhnehiiprdc2es7a&redirect=true](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317x6f3gft4nrhnehiiprdc2es7a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)
 
 <!---
