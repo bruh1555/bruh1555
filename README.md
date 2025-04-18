@@ -14,6 +14,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317x6f3gft4nrhnehiiprdc2es7a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=317x6f3gft4nrhnehiiprdc2es7a&redirect=true)
 
+[![bruh1555's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruh1555)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 bruh1555/bruh1555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
